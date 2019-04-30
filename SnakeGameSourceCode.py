@@ -1,3 +1,7 @@
+# Author: Ashique Arman
+# Institute: Ahsanullah University of Science & Technology
+
+
 import turtle
 import time
 import random
