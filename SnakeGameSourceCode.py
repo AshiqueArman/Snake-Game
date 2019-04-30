@@ -12,7 +12,7 @@ highScore = 0
 width = 600
 height = 600
 
-#  Range of SnakeFood's new Random Location
+#  Range of SnakeFood's new Random Location after it's eaten
 
 y1 = height/2 - 30      # limit of up
 y2 = 30 - height/2      # limit of down
